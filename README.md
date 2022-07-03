@@ -1,7 +1,7 @@
 # :file_folder: 문서 목록
 - 개인 포트폴리오
   - 개인 포트폴리오 정리
-  - 원신 역기획서 - '캐릭터 육성 시스템'  (수정중)
+  - 원신 - '특성 시스템 역기획서'
   - INVIRUS (Unreal)
   - 온라인 방탈출 'Switch'
 - 2020년도 제2회 SM경진대회 수상작
@@ -15,8 +15,8 @@
 ## :scroll: 개인 포트폴리오 정리
 <img src = "https://user-images.githubusercontent.com/56291849/150632224-50a3c9c3-85eb-465d-b326-6a5d3a721676.JPG" width="60%" height="60%">
 
-## :bar_chart: 원신 역기획서 - '캐릭터 육성 시스템' 
-<img src = "https://user-images.githubusercontent.com/56291849/150635415-0d39f2ef-22ff-4fe6-9e18-2e23c4730898.JPG" width="60%" height="60%">
+## :bar_chart: 원신 - '특성 시스템 역기획서' 
+<img src = "https://user-images.githubusercontent.com/56291849/177029752-17bf57ef-a611-429d-92c4-12e441a45b11.png" width="60%" height="60%">
 
 ## :robot: INVIRUS (Unreal)
 <img src = "https://user-images.githubusercontent.com/56291849/150635812-e53cd6b8-584a-412c-86df-e21f5c46bba7.JPG" width="60%" height="60%">
